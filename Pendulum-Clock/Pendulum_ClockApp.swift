@@ -11,7 +11,7 @@ import SwiftUI
 struct Pendulum_ClockApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PendulumClockView()
         }
     }
 }
